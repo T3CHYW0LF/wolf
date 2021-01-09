@@ -1,1 +1,1 @@
-<ZeroDayWolf>
+ZeroDayWolf.
